@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    font-family:sans-serif;
+    font-size: 30pt;
+    
+}
+table {
+    color: black;
+    font-family:serif;
+    background-color: yellow;
+    font-size: 18pt;
+}
+th {
+    background-color: aqua;
+}
